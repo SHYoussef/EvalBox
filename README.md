@@ -4,6 +4,8 @@
 
 EvalBox is an evaluation pipeline that generates synthetic dataset and evaluates agents.
 
+(IN PROGRESS)
+
 ## Project structure ✅
 
 ```EvalBox
