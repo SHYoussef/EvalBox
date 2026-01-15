@@ -4,7 +4,7 @@
 
 EvalBox is an evaluation pipeline that generates synthetic dataset and evaluates agents.
 
-(IN PROGRESS)
+(IN PROGRESS, DO NOT CLONE YET)
 
 ## Project structure ✅
 
@@ -14,8 +14,8 @@ EvalBox is an evaluation pipeline that generates synthetic dataset and evaluates
 ├── tsconfig.json
 ├── LICENSE
 └── src/
-    └── EvalBox/
-        ├── api/
-        ├── evaluation/
-        ├── generation/
-        └── utils/
+
+    ├── api/
+    ├── evaluation/
+    ├── generation/
+    └── utils/
